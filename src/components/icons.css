@@ -1,0 +1,51 @@
+.wholeDiv{
+    border-bottom: 1px solid white;
+}
+.wholeDiv h1{
+  margin-bottom: 30px;
+}
+.iconsdiv{
+  margin: 20px;
+  margin-bottom: 60px;
+  border-radius: 20px;
+  background-color: black;
+  padding:5px;
+  transition: margin 0.5s ease-out;
+      -moz-transition: margin 0.5s ease-out;
+      -o-transition: margin 0.5s ease-out;
+}
+.iconsdiv img{
+  display: block;
+  margin-left:auto;
+  margin-right: auto;
+  width:130px;
+  height: 130px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+.iconsdiv h2{
+  margin-top: 10px;
+  margin-bottom: -14px;
+  text-align: center;
+  font-size: 25px;
+  color:#0bb27b;
+}
+.iconsdiv p{
+  text-align: center;
+  color:#0bb27b;
+  font-size: 15px;
+  margin-bottom: -14px;
+}
+
+.iconsdiv h3{
+  text-align: center;
+  color:#0bb27b;
+  font-size: 15px;
+}
+.iconsdiv span{
+  font-size: 10px;
+}
+.iconsdiv:hover{
+  cursor: pointer;
+  margin-top: 8px;
+}
